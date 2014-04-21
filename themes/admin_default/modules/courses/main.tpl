@@ -27,7 +27,7 @@
 				<td>{ROW.id_courses}</td>
 				<td>{ROW.note}</td>
 				<td>{ROW.status}</td>
-				<td> <a href="http://localhost/nukeviet-develop/admin/index.php?language=vi&nv=courses&op=courses&id={ROW.id}">Sửa</a> | <a href="#">Xóa</a> </td>
+				<td> <a href="http://localhost/nukeviet-develop/admin/index.php?language=vi&nv=courses&op=edit_courses&id={ROW.id}">Sửa</a> | <a href="#">Xóa</a> </td>
 			</tr>
 			<!-- END: loop -->
 		</tbody>

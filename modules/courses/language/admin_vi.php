@@ -20,6 +20,7 @@ $lang_module['main'] = 'Trang chính';
 $lang_module['config'] = 'Cấu hình';
 $lang_module['save'] = 'Lưu';
 $lang_module['courses'] = 'Khóa học';
+$lang_module['edit_courses'] = 'Sửa Khóa học';
 $lang_module['student'] = 'Sinh viên';
 $lang_module['attendance'] = 'Điểm danh';
 $lang_module['diff'] = 'diff';

@@ -13,11 +13,12 @@ if ( ! defined( 'NV_ADMIN' ) or ! defined( 'NV_MAINFILE' ) or ! defined( 'NV_IS_
 $submenu['main'] = $lang_module['main'];
 $submenu['config'] = $lang_module['config'];
 $submenu['courses'] = $lang_module['courses'];
+$submenu['edit_courses'] = $lang_module['edit_courses'];
 $submenu['student'] = $lang_module['student'];
 $submenu['attendance'] = $lang_module['attendance'];
 //$submenu['diff'] = $lang_module['diff'];
 
-$allow_func = array( 'main', 'config', 'courses', 'student', 'attendance', 'diff','alias');
+$allow_func = array( 'main', 'config', 'courses','edit_courses', 'student', 'attendance', 'diff','alias');
 
 define( 'NV_IS_FILE_ADMIN', true );
 
